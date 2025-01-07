@@ -1,4 +1,4 @@
-import { readCSVFile } from '@/src/utils/csvParser';
+import { readCSVFile } from '@/app/src/utils/csvParser';
 import { NextResponse } from 'next/server';
 
 

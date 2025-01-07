@@ -1,6 +1,6 @@
 'use client';
 
-import { TableRow } from '@/src/utils/csvParser';
+import { TableRow } from '@/app/src/utils/csvParser';
 import { useEffect, useState } from 'react';
 
 
